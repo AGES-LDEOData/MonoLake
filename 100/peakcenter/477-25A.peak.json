@@ -1,0 +1,18 @@
+{
+    "L2": {
+        "center_dac": 41.972408664203435,
+        "center_signal": 1.2709475347574044,
+        "high_dac": 41.97781948584672,
+        "high_resolving_power": 8727.57580142858,
+        "high_signal": 0.23678125116072324,
+        "low_dac": 41.96699784256015,
+        "low_resolving_power": 8212.688989580556,
+        "low_signal": 0.22727495904180195,
+        "points": "QifCgQAAAABCJ8efAAAAAEInzL4AAAAAQifR3QAAAABCJ9b7P4AAAEIn3BoAAAAAQifhOT+AAABCJ+ZYP4AAAEIn63YAAAAAQifwlT+AAABCJ/W0AAAAAEIn+tM/gAAAQif/8T+AAABCKAUQAAAAAEIoCi8AAAAAQigPTQAAAABCKBRsP4AAAEIoGYsAAAAAQigeqgAAAABCKCPIAAAAAEIoKOcAAAAAQiguBgAAAABCKDMkAAAAAEIoOEMAAAAAQig9YgAAAABCKEKBAAAAAEIoR58/gAAAQihMvgAAAABCKFHdAAAAAEIoVvsAAAAAQihcGj+AAAA=",
+        "resolution": 3324.481257688248
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "L2",
+    "reference_isotope": "Ar40"
+}
