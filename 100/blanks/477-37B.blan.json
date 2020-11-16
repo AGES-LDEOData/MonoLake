@@ -1,0 +1,110 @@
+{
+    "Ar36": {
+        "error": 0.7405525615409946,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-CC-N-2355"
+            }
+        ],
+        "value": 14.634553758661198
+    },
+    "Ar37": {
+        "error": 1.8982699492957353,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-CC-N-2355"
+            }
+        ],
+        "value": 68.66006314055481
+    },
+    "Ar38": {
+        "error": 0.5132315283877696,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-CC-N-2355"
+            }
+        ],
+        "value": 2.5580409303226608
+    },
+    "Ar39": {
+        "error": 0.5894487271440824,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-CC-N-2355"
+            }
+        ],
+        "value": 16.514504812521352
+    },
+    "Ar40": {
+        "error": 66.1862497406719,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-CC-N-2355"
+            }
+        ],
+        "value": 4132.326145797352
+    },
+    "Iso42.9624": {
+        "error": 0.0,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-CC-N-2355"
+            }
+        ],
+        "value": 2.800826988448276e-05
+    },
+    "Iso43.9624": {
+        "error": 0.0,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-CC-N-2355"
+            }
+        ],
+        "value": 8.9029877160339e-06
+    },
+    "PM41": {
+        "error": 0.0,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-CC-N-2355"
+            }
+        ],
+        "value": 1.3304681291322035e-05
+    },
+    "PM42": {
+        "error": 0.0,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-CC-N-2355"
+            }
+        ],
+        "value": 2.5791249106482144e-06
+    }
+}
