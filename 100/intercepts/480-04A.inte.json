@@ -73,10 +73,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": -6.265785402966841e-06
+        "value": -6.26578540296684e-06
     },
     "Ar40": {
-        "error": 1.966716025426254e-06,
+        "error": 1.966716025426256e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,

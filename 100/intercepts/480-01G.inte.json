@@ -35,7 +35,7 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 7.015938135281426e-07
+        "value": 7.015938135281425e-07
     },
     "Ar38": {
         "error": 2.909971379075015e-07,
@@ -54,7 +54,7 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 1.2087675173041555e-06
+        "value": 1.2087675173041553e-06
     },
     "Ar39": {
         "error": 1.6478955194395829e-07,
@@ -92,6 +92,6 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.0001049895975513331
+        "value": 0.00010498959755133317
     }
 }

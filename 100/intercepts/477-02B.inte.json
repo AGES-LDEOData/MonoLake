@@ -16,7 +16,7 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 29.65288326958059
+        "value": 29.6528832695806
     },
     "Ar37": {
         "error": 2.430422041848299e-07,
@@ -35,7 +35,7 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 8.730208124399269e-07
+        "value": 8.73020812439927e-07
     },
     "Ar38": {
         "error": 2.5287721082489385e-07,
@@ -54,7 +54,7 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 1.3427427035053584e-06
+        "value": 1.3427427035053586e-06
     },
     "Ar39": {
         "error": 1.5538929996075635e-07,
@@ -73,7 +73,7 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": -7.98926242917668e-06
+        "value": -7.989262429176682e-06
     },
     "Ar40": {
         "error": 1.940407260523494e-06,
@@ -92,6 +92,6 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.00012455976166517976
+        "value": 0.00012455976166517974
     }
 }
